@@ -18,5 +18,8 @@
   "homepage": "https://github.com/grishutenkopavel/circleci-project#readme",
   "devDependencies": {
     "webpack": "^5.59.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
